@@ -1,4 +1,10 @@
 # SistemaCursoOnline
+
+--ejecutar el siguiente comando en la terminal para poder instalar las dependencias de composer
+--composer install
+
+
+
 sistema encargado de registrar cursos online
 
 clonar el repositorio
