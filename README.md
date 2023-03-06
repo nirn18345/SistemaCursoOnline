@@ -1,7 +1,7 @@
 # SistemaCursoOnline
 sistema encargado de registrar cursos online
 
-clonar el repistorio
+clonar el repositorio
 
 copiar la carpeta contenedora al la raiz xamp , htdoc
 
